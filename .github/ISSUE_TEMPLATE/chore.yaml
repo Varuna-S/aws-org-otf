@@ -2,7 +2,6 @@ name: Chore
 description: General maintenance tasks
 title: "[Chore]: "
 labels: ["chore"]
-type: chore
 body:
   - type: textarea
     id: "summary"

@@ -2,7 +2,6 @@ name: Feature Request / Improvement
 description: Request a new feature or improvement
 title: "[Feature/Improvement]: "
 labels: ["enhancement"]
-type: feature
 body:
   - type: textarea
     id: "description"
